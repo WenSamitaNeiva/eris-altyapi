@@ -1,0 +1,20 @@
+{
+  "name": "eris-anticode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node main.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "WenSamita Neiva",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.15.1",
+    "fs": "^0.0.1-security",
+    "npm.db": "^2.0.7"
+  }
+}
